@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='![Uploading Kapture 2023-03-10 at 18.40.32.gif…]()' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/a/NAH2mdS.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with Kap
 
